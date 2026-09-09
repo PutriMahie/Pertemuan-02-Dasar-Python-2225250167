@@ -1,4 +1,3 @@
-# Program konversi suhu Celsius ke Fahrenheit dan Kelvin
 celsius = float(input("Masukkan suhu dalam Celsius: "))
 
 fahrenheit = (celsius * 9/5) + 32
