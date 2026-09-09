@@ -1,4 +1,3 @@
-# Program menghitung jarak antara dua titik koordinat (x1,y1) dan (x2,y2)
 import math
 
 x1 = float(input("Masukkan x1: "))
