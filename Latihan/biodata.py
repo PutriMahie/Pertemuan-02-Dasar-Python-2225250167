@@ -1,9 +1,8 @@
-# Program menampilkan biodata diri
 nama = "Putri Ayu Anisa Mahie"
-nim = "2225250167"          # ganti dengan NIM kamu
+nim = "2225250167"          
 prodi = "Pendidikan Matematika"
-umur = 18                    # ganti sesuai umur kamu
-hobi = "Membaca Novel"                 # isi hobi kamu
+umur = 18                    
+hobi = "Membaca Novel"                 
 
 print("=== BIODATA DIRI ===")
 print("Nama  :", nama)
