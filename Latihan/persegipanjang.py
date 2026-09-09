@@ -1,4 +1,3 @@
-# Program menghitung luas dan keliling persegi panjang
 panjang = float(input("Masukkan panjang: "))
 lebar = float(input("Masukkan lebar: "))
 
